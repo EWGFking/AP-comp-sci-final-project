@@ -1,12 +1,12 @@
-# Mason B – Final Portfolio Project
+# Mason W – Final Portfolio Project
 
 ## 👋 About Me
 
-Hi! I'm Mason B, a student developer with a passion for problem-solving, learning new technologies, and building cool things with code. Over the past year, I've grown my skills in web development and programming through hands-on projects and collaborative learning.
+Hi! I'm Mason W, a student developer with a passion for problem-solving, learning new technologies, and building cool things with code. Over the past year, I've grown my skills in web development and programming through hands-on projects and collaborative learning.
 
 ## 📚 Project Overview
 
-This portfolio website is the culmination of my learning throughout the year in Computer Science. It showcases my progress, highlights the projects I’ve built, and reflects the knowledge I’ve gained in programming languages like C++, HTML, CSS, and JavaScript.
+This portfolio website is the culmination of my learning throughout the year in AP Computer Science. It showcases my growth as a developer, highlights several projects I’ve completed, and reflects the skills I’ve gained in C++, HTML, CSS, and JavaScript.
 
 Through this project, I’ve learned how to:
 - Break down complex problems into manageable steps
@@ -17,31 +17,31 @@ Through this project, I’ve learned how to:
 ## 🌐 What’s Included in the Portfolio
 
 The site includes:
-- A professional introduction about me
-- Descriptions of key programming projects I completed
-- Live demos of interactive applications
-- Downloadable files for offline use
-- Clean, modern design using HTML and CSS
+- A personal introduction
+- Descriptions of key programming projects
+- Live demos hosted online
+- A downloadable game project
+- Clean, responsive design using HTML and CSS
 
 ## 🛠️ Featured Projects
 
 ### 🎮 Rock Paper Scissors Game
-A C++ terminal-based game where the player selects rock, paper, or scissors, and the computer randomly chooses a move. The game then determines and displays the winner.
+A C++ console game where the player chooses rock, paper, or scissors. The computer randomly selects a move, and the winner is determined and displayed.
 
 ### ⏰ JavaScript Clock
-A real-time digital clock built with HTML, CSS, and JavaScript. It updates every second to display the current time in your browser.
+A real-time digital clock made with HTML, CSS, and JavaScript. It displays the current time and updates every second.
 
 ### 🔊 Soundboard
-A fun soundboard created using CodePen. It features buttons styled with CSS and interactive audio playback triggered by JavaScript.
+An interactive soundboard hosted on CodePen. It uses HTML buttons, styled with CSS, and plays sound clips via JavaScript when clicked.
 
 ### 🧮 Scratch Math Game
-A speed and accuracy-based game made in Scratch. Players solve math problems under time pressure, with increasing difficulty as they progress. A downloadable ZIP file is provided to run the game in Scratch offline.
+A speed-based math game created in Scratch. Players solve problems quickly to earn more time, with increasing difficulty levels. A downloadable ZIP file is available to run the game offline in Scratch.
 
 ## 🔗 Links
 
-- **GitHub Repository:** [https://github.com/yourusername/final-project-portfolio](https://github.com/yourusername/final-project-portfolio)
-- **Live Site on GitHub Pages:** [https://yourusername.github.io/final-project-portfolio/](https://yourusername.github.io/final-project-portfolio/)
+- **GitHub Repository:** [https://github.com/EWGFking/AP-comp-sci-final-project](https://github.com/EWGFking/AP-comp-sci-final-project)
+- **Live Site on GitHub Pages:** [https://ewgfking.github.io/AP-comp-sci-final-project/](https://ewgfking.github.io/AP-comp-sci-final-project/)
 
 ---
 
-Thanks for checking out my portfolio!
+Thanks for visiting my portfolio!
