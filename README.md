@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi! I'm Mason W, a student developer with a passion for problem-solving, learning new technologies, and building cool things with code. Over the past year, I've grown my skills in web development and programming through hands-on projects and collaborative learning.
+Hi! I'm Mason B, a student developer with a passion for problem-solving, learning new technologies, and building cool things with code. Over the past year, I've grown my skills in web development and programming through hands-on projects and collaborative learning.
 
 ## 📚 Project Overview
 
