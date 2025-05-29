@@ -1,4 +1,4 @@
-# Mason W – Final Portfolio Project
+# Mason B – Final Portfolio Project
 
 ## 👋 About Me
 
@@ -26,7 +26,7 @@ The site includes:
 ## 🛠️ Featured Projects
 
 ### 🎮 Rock Paper Scissors Game
-A C++ console game where the player chooses rock, paper, or scissors. The computer randomly selects a move, and the winner is determined and displayed.
+A javascript/Html game where the player chooses rock, paper, or scissors. The computer randomly selects a move, and the winner is determined and displayed.
 
 ### ⏰ JavaScript Clock
 A real-time digital clock made with HTML, CSS, and JavaScript. It displays the current time and updates every second.
