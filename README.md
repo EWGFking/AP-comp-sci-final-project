@@ -32,7 +32,7 @@ A C++ console game where the player chooses rock, paper, or scissors. The comput
 A real-time digital clock made with HTML, CSS, and JavaScript. It displays the current time and updates every second.
 
 ### 🔊 Soundboard
-An interactive soundboard hosted on CodePen. It uses HTML buttons, styled with CSS, and plays sound clips via JavaScript when clicked.
+An interactive soundboard made on CodePen. It uses HTML buttons, styled with CSS, and plays sound clips via JavaScript when clicked.
 
 ### 🧮 Scratch Math Game
 A speed-based math game created in Scratch. Players solve problems quickly to earn more time, with increasing difficulty levels. A downloadable ZIP file is available to run the game offline in Scratch.
