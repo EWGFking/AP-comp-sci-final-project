@@ -40,7 +40,7 @@ A speed-based math game created in Scratch. Players solve problems quickly to ea
 ## 🔗 Links
 
 - **GitHub Repository:** [https://github.com/EWGFking/AP-comp-sci-final-project](https://github.com/EWGFking/AP-comp-sci-final-project)
-- **Live Site on GitHub Pages:** [https://ewgfking.github.io/AP-comp-sci-final-project/]( https://ewgfking.github.io/AP-comp-sci-final-project/)
+- **Live Site on GitHub Pages:** [https://ewgfking.github.io/AP-comp-sci-final-project/](https://ewgfking.github.io/AP-comp-sci-final-project/)
 
 ---
 
